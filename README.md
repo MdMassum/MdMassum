@@ -1,4 +1,3 @@
-[![MasterHead](https://marketplace.canva.com/EAFFI2trtnE/1/0/1600w/canva-black-minimalist-motivation-quote-linkedin-banner-cqVV-6-1kOk.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Mohammad Emamudin</h1>
 <h4 align="center">A final-year BTech CSE student at Mittal Institute of Technology. I've developed several projects using the MERN stack and solved over 450 problems on LeetCode. Aspiring to become a software developer, I'm passionate about building innovative web applications and continuously honing my skills.</h4>
